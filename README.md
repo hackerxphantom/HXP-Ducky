@@ -79,29 +79,27 @@ sudo apt-get update && pkg upgrade -y
 sudo apt-get install git -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/xinsta_brute
+git clone https://github.com/hackerxphantom/HXP-DUCKY
 ```
 ```bash
-cd xinsta_brute
+cd HXP-DUCKY
 ```
 ```bash
-bash setup
+bash hxp_duck.sh
 ```
-
-Type Above Command bash setup Wait For Some minute 
-
-Warn:- don't exit old terminal/session
-
-Now Open New Terminal/Session And Type Below command:-
-
-```bash
-bash xinsta_brute.sh
-``` 
 
 ## ScreenShots :- 
-  
-![Screenshot_20220605-100249_zoom](https://user-images.githubusercontent.com/70594016/172036818-d84e7a6d-d1b9-44b1-b184-585c417caaa4.png)
-![Screenshot_20220605-100405_zoom](https://user-images.githubusercontent.com/70594016/172036819-b119cf6f-e10d-436d-badb-072436d52a29.png)
- 
+  ![Screenshot_20220613-103741_zoom](https://user-images.githubusercontent.com/70594016/173283913-54b6a34b-e3e8-4d9e-a906-56dc08ffc44e.png)
+
+ ## CONNECT WITH US :
+
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](hInstagrinstagram.com/hacker.xphantom)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://hackerxphantom.blogspot.com)
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](#)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/x_PH4N7OM)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://bit.ly/3PV3S3r)
+<a href="https://youtube.com/channel/UC4zER3G-oY5ChQit_Ag977w"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker X Phantom-red?style=for-the-badge&logo=Youtube"></a>
+
 
   
