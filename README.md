@@ -65,7 +65,7 @@ cd HXP-DUCKY
 ls
 ```
 ```bash
-bash hxp_duck.sh
+bash hxp_ducky.sh
 ```
 
 ## Tutorial :-
@@ -85,7 +85,7 @@ git clone https://github.com/hackerxphantom/HXP-DUCKY
 cd HXP-DUCKY
 ```
 ```bash
-bash hxp_duck.sh
+bash hxp_ducky.sh
 ```
 
 ## ScreenShots :- 
