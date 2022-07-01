@@ -69,7 +69,8 @@ bash hxp_ducky.sh
 ```
 
 ## Tutorial :-
- Coming Soon
+ https://youtu.be/p2gIHuGW5nc
+
 ### <p align="center">Commands to run tool in ur Kali Linux
 ***
  ```bash
